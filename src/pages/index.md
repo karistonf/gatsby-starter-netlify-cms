@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Lilianny Deputada Federal
+title: Lilianny Ripky Vereadora para Maringá
 image: /img/home-jumbotron.jpg
 heading: Lilianny 
 subheading: Support sustainable farming while enjoying a cup
